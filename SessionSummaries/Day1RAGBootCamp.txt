@@ -30,3 +30,5 @@ https://nlp.stanford.edu/projects/glove/
 Steps:
 1. FastText and Embeddings data file
 2. Load the file in Pythin env. (Notebooks preferabbly Kaggle, GCollab)
+3. A function to generate similar words to an input word
+4. Plot to visualise the words(Vector Embeddings) on a 2-D graph
