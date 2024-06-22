@@ -1,0 +1,32 @@
+Two types of Word Embeddings
+1. FastText (Facebook)
+2. GloVe (Stanford)
+
+Word Embeddings are vectors that represent words in the form of numbers.
+
+How its done??
+Similarity is found by using Euclidian Distance formula or the Cosine similarity
+
+
+
+
+ToDos:
+Google NGrams Viewer
+Counter Lib (Py)
+Word2Vec
+TSNE converts the multidimensional vectors to 2-D ones
+Scikit-Learn (K Nearest Neigbhours- KNN, )
+PostgreSQL (Vector Search Extension)
+Annoy (create these buckets and search the neighbhours)
+
+
+
+Links:
+https://github.com/blester125/word-vectors
+https://fasttext.cc/docs/en/english-vectors.html
+https://nlp.stanford.edu/projects/glove/
+
+
+Steps:
+1. FastText and Embeddings data file
+2. Load the file in Pythin env. (Notebooks preferabbly Kaggle, GCollab)
